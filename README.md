@@ -17,9 +17,9 @@
 <br>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=520&color=ffffff&fontSize=120&fontAlignY=42&descSize=40&descAlignY=64&fontColor=ff453a&text=DAM&desc=Grado%20Superior%20%C2%B7%20CEAC%20FP" width="31%" alt="DAM · Grado Superior en curso · CEAC FP" />&nbsp;
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=520&color=ffffff&fontSize=120&fontAlignY=42&descSize=40&descAlignY=64&fontColor=ff9f0a&text=Nutro&desc=Mi%20primer%20proyecto%20real" width="31%" alt="Nutro · Mi primer proyecto real" />&nbsp;
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=520&color=ffffff&fontSize=120&fontAlignY=42&descSize=40&descAlignY=64&fontColor=28b44a&text=Grado%20Medio&desc=Gesti%C3%B3n%20Administrativa" width="31%" alt="Grado Medio · Técnico en Gestión Administrativa · 2024–2026" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=520&fontColor=ffffff&fontAlignY=42&descSize=40&descAlignY=64&fontSize=120&color=0:ff453a,100:ff8f3a&text=DAM&desc=CEAC%20FP%20%C2%B7%202026%E2%80%932028" width="31%" alt="DAM · Grado Superior · CEAC FP · 2026–2028" />&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=520&fontColor=ffffff&fontAlignY=42&descSize=40&descAlignY=64&fontSize=120&color=0:ffb340,100:ffd60a&text=Nutro&desc=Mi%20primer%20proyecto%20real" width="31%" alt="Nutro · Mi primer proyecto real" />&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=520&fontColor=ffffff&fontAlignY=42&descSize=40&descAlignY=64&fontSize=120&color=0:a8dc4a,100:30d158&text=TGA&desc=Gesti%C3%B3n%20Administrativa%20%C2%B7%202024%E2%80%932026" width="31%" alt="TGA · Técnico en Gestión Administrativa · 2024–2026" />
 </p>
 
 <br>
@@ -29,11 +29,11 @@
 <p align="center">
 <sub><b>USO EN NUTRO</b> · con IA como copiloto</sub>
 <br><br>
-<a href="https://reactnative.dev" title="React Native"><img src="https://skillicons.dev/icons?theme=dark&i=react" alt="React Native" /></a>&nbsp;
-<a href="https://expo.dev" title="Expo"><img src="https://go-skill-icons.vercel.app/api/icons?i=expo" alt="Expo" /></a>&nbsp;
-<a href="https://supabase.com" title="Supabase"><img src="https://skillicons.dev/icons?theme=dark&i=supabase" alt="Supabase" /></a>&nbsp;
-<a href="https://platform.openai.com" title="OpenAI API"><img src="https://go-skill-icons.vercel.app/api/icons?i=openai" alt="OpenAI API" /></a>&nbsp;
-<a href="https://code.visualstudio.com" title="Visual Studio Code"><img src="https://skillicons.dev/icons?theme=dark&i=vscode" alt="Visual Studio Code" /></a>
+<a href="https://reactnative.dev" title="React Native"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="48" alt="React Native" /></a>&nbsp;
+<a href="https://expo.dev" title="Expo"><img src="https://go-skill-icons.vercel.app/api/icons?i=expo" width="48" alt="Expo" /></a>&nbsp;
+<a href="https://supabase.com" title="Supabase"><img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" width="48" alt="Supabase" /></a>&nbsp;
+<a href="https://platform.openai.com" title="OpenAI API"><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="48" alt="OpenAI API" /></a>&nbsp;
+<a href="https://code.visualstudio.com" title="Visual Studio Code"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="48" alt="Visual Studio Code" /></a>
 </p>
 
 <br>
@@ -41,11 +41,11 @@
 <p align="center">
 <sub><b>APRENDIENDO EN EL GRADO SUPERIOR</b></sub>
 <br><br>
-<a href="https://dev.java" title="Java"><img src="https://skillicons.dev/icons?theme=dark&i=java" alt="Java" /></a>&nbsp;
-<a href="https://kotlinlang.org" title="Kotlin"><img src="https://skillicons.dev/icons?theme=dark&i=kotlin" alt="Kotlin" /></a>&nbsp;
-<a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?theme=dark&i=androidstudio" alt="Android Studio" /></a>&nbsp;
-<a href="https://www.mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?theme=dark&i=mysql" alt="MySQL" /></a>&nbsp;
-<a href="https://code.visualstudio.com" title="Visual Studio Code"><img src="https://skillicons.dev/icons?theme=dark&i=vscode" alt="Visual Studio Code" /></a>
+<a href="https://dev.java" title="Java"><img src="https://go-skill-icons.vercel.app/api/icons?i=java" width="48" alt="Java" /></a>&nbsp;
+<a href="https://kotlinlang.org" title="Kotlin"><img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" width="48" alt="Kotlin" /></a>&nbsp;
+<a href="https://developer.android.com/studio" title="Android Studio"><img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" width="48" alt="Android Studio" /></a>&nbsp;
+<a href="https://www.mysql.com" title="MySQL"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="48" alt="MySQL" /></a>&nbsp;
+<a href="https://code.visualstudio.com" title="Visual Studio Code"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="48" alt="Visual Studio Code" /></a>
 </p>
 
 <br>
